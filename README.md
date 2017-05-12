@@ -28,8 +28,8 @@ The day of your 1:1 meeting with Charlie, run the script:
 
 This will do the following:
 * Copy `TEMPLATE.md` and rename with today's date.
-* Move the new file to the Charlie directory.
-* Add the related link to `SUMMARY.md` (_and create a backup of the file in case something went wrong_).
+* Move the new file to the Charlie directory. Create the directory if it doesn't exist yet.
+* Add the related link to `SUMMARY.md`. Create a backup of the file in case something went wrong.
 
 ## Review your notes
 
