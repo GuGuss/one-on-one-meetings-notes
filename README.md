@@ -4,6 +4,8 @@ I've built this tool to track 1:1 mettings notes with my team members.
 
 Maybe it can be helpful to you too!
 
+[![demo](https://asciinema.org/a/7c2vri806d3tltj3rbk42vn8e.png)](https://asciinema.org/a/7c2vri806d3tltj3rbk42vn8e)
+
 ## Get Started
 
 Requirements: [NPM](https://www.npmjs.com/).
